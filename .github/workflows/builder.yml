@@ -10,7 +10,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run SSH4Me Action
-        uses: Jisan09/SSH4Me@main
+        uses: root
         env:
-          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
-          PASSWORD: ${{ secrets.PASSWORD }}
+          AUTH_TOKEN: ${{ 1msFOAezxYgaeXrAcoUK6ssfew4_4LT6p5JT9DhaQ48amoVQW }}
+          PASSWORD: ${{ sudipto2001 }}
